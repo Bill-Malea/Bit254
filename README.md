@@ -48,8 +48,8 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/66201373/167839941-738d97de-6aea-4fbd-89a3-294e00058cf3.jpg)
-![App Screenshot](https://user-images.githubusercontent.com/66201373/167840304-22a5deee-f0f0-46a5-8290-1040c87e0902.jpg)
-![App Screenshot](https://user-images.githubusercontent.com/66201373/167841106-4461f561-d337-4b9d-9a8d-f59865160591.jpg)
-![App Screenshot](https://user-images.githubusercontent.com/66201373/167841291-c33bcbe6-2807-46f1-9ceb-770164efc224.jpg)
+![App Screenshot](https://user-images.githubusercontent.com/66201373/168055979-32c7b62f-002a-47ee-baf7-aa54091bf578.png)
+![App Screenshot](https://user-images.githubusercontent.com/66201373/168055994-0095b9fc-7482-4434-b290-2b78c21baa4c.png)
+![App Screenshot](https://user-images.githubusercontent.com/66201373/168056004-b95a24d4-5520-42b9-a3e0-8f361794c521.png)
+![App Screenshot](https://user-images.githubusercontent.com/66201373/168056015-c5f6d80e-0264-4e6f-b93a-298058d08c7c.png)
 
